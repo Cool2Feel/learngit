@@ -7,4 +7,5 @@ int man()
 
       print a
 
-
+git is a version control system.
+git is free software.
