@@ -10,3 +10,4 @@ int man()
 git is a version control system.
 git is free software distributed in GPL.
 git has a mutabie index cslled stage.
+git tracks change.
